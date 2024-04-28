@@ -8,7 +8,7 @@ import ProtectedRoute from './utils/ProtectedRoute';
 import AppContext from './context/AppContext';
 
 const app = initializeApp({
-
+  // Firebase things
 })
 
 function App() {
